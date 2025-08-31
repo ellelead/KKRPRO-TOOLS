@@ -1,0 +1,5 @@
+name: KkrproTools
+version: '1.0-SNAPSHOT'
+main: pl.kkrpro.kkrproTools.Main
+api-version: '1.19'
+author: [ kkrpro ]
